@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Monem Ahmed
+- 👀 I’m interested in Embedded Software Engineering
+- 🌱 I’m currently learning FreeRTOS & C++ for Embedded Systems
+- 💞️ I’m looking to collaborate on Embedded Software development
+- 📫 Find me at [Linkedin](https://www.linkedin.com/in/monem-ahmed-kuet/)
