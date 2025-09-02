@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monem Ahmed
-- 👀 I’m interested in Embedded Software Engineering
-- 🌱 I’m currently learning FreeRTOS & C++ for Embedded Systems
-- 💞️ I’m looking to collaborate on Embedded Software development
+- 👀 I’m an Embedded Software Engineer with a keen interest in Machine Learning.
+- 🌱 I’m currently learning Deep Learning.
+- 💞️ I’m looking to collaborate on computer vision application development for Real Time systems.
 - 📫 Find me at [Linkedin](https://www.linkedin.com/in/monem-ahmed-kuet/)
